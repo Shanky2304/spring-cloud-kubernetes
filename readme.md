@@ -38,7 +38,7 @@ This is something that you get for free just by adding the following dependency 
 <dependency>
     <groupId>io.fabric8</groupId>
     <artifactId>spring-cloud-starter-kubernetes</artifactId>
-    <version>${latest.version></version>
+    <version>${latest.version}</version>
 </dependency>
 ```
 
@@ -324,7 +324,7 @@ A Kubernetes based `ServerList` for Ribbon has been implemented. The implementat
 <dependency>
     <groupId>io.fabric8</groupId>
     <artifactId>spring-cloud-starter-kubernetes-netflix</artifactId>
-    <version>${latest.version></version>
+    <version>${latest.version}</version>
 </dependency>
 ```
 
@@ -356,7 +356,7 @@ Discovery of the services required by Zipkin (e.g. `zipkin-query`) is provided b
 <dependency>
     <groupId>io.fabric8</groupId>
     <artifactId>spring-cloud-starter-kubernetes-zipkin</artifactId>
-    <version>${latest.version></version>
+    <version>${latest.version}</version>
 </dependency>
 ```
 
